@@ -1,0 +1,64 @@
+
+#main {
+  background-color: #eee;
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: 'Helvetica Neue', Arial, sans-serif;;
+  color: #333;
+}
+
+
+#title {
+  padding-top: 2rem;
+  font-size: 40px;
+}
+
+img {
+  height: 70%;
+  background-color: white;
+  margin: 2rem 2rem;
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#img-caption {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size:17px;
+}
+
+#tribute-info {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 30px;
+  padding-top: 5px;
+}
+
+#tribute-info > p {
+  font-weight: bold;
+  font-size: 30px;
+  margin: 4rem 4rem;
+}
+
+li {
+  margin: 2rem 2rem;
+  text-align: left;
+}
+
+span {
+  font-weight: bold;
+}
+
+
+#tribute-link {
+  color:blueviolet;
+}
+
+#img-div {
+  padding-top: 30px;
+  background-color: white;
+}
